@@ -30,7 +30,7 @@
 
 ---
 
-### 📬 Contact | Contato
+### 👩‍🦰 Contact | Contato
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bruna-paiva16" target="_blank">
